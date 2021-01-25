@@ -115,3 +115,70 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[HACKER,Talia]
+LoseText = "I Still have next time to win!"
+Pokemon = TEDDIURSA,6
+#-------------------------------
+[YOUNGSTER,Joey]
+LoseText = "Rattata NO!"
+Pokemon = RATTATA,7
+#-------------------------------
+[LASS,Mary]
+LoseText = "I got stronger from this fight I know it!"
+Pokemon = PIDGEY,7
+Pokemon = SPEAROW,7
+#-------------------------------
+[BUGCATCHER,Caleb]
+LoseText = "I really want one of those special regionals!"
+Pokemon = CATERPIE,7
+Pokemon = WEEDLE,8
+#-------------------------------
+[BUGCATCHER,Callem]
+LoseText = "My Bug Pokemon will beat you next time"
+Pokemon = METAPOD,9
+Pokemon = CATERPIE,8
+#-------------------------------
+[TEAMROOT_F,Root Grunt]
+LoseText = "We will win next time, you best be prepared!"
+Pokemon = GROWLITHE,10
+Pokemon = POOCHYENA,8
+#-------------------------------
+[LEADER_Kurokawa,Kurokawa]
+Items = FULLRESTORE,FULLRESTORE
+LostText = "Eeh, guess you won? Fun fight I guess."
+Pokemon = LOTAD,10
+Pokemon = TOTODILE,13
+Pokemon = PANSAGE,10
+#-------------------------------
+[SNORLAX,Snorlax]
+LoseText = "Snore~ la~ x"
+Pokemon = MUNCHLAX,10
+Pokemon = SNORLAX,16
+Pokemon = MUNCHLAX,10
+#-------------------------------
+[BUGCATCHER,Jerry]
+LoseText = "If only I had a Beedrill like Derx."
+Pokemon = KAKUNA,7
+Pokemon = WEEDLE,8
+#-------------------------------
+[BUGCATCHER,Charles]
+LoseText = "I was told this would be a funny statement to make."
+Pokemon = KAKUNA,7
+Pokemon = METAPOD,8
+Pokemon = METAPOD,8
+#-------------------------------
+[BUGCATCHER,Jay]
+LoseText = "Maybe I should also get a Metapod."
+Pokemon = CATERPIE,7
+Pokemon = BUTTERFREE,10
+#-------------------------------
+[BUGCATCHER,Greg]
+LoseText = "I wonder when my Kakuna will evolve?"
+Pokemon = KAKUNA,7
+Pokemon = WEEDLE,8
+Pokemon = METAPOD,8
+#-------------------------------
+[BUGCATCHER,Derx]
+LoseText = "I once told a kid about [Placeholder], pretty funny."
+Pokemon = BEEDRILL,9
